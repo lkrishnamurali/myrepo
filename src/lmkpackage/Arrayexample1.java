@@ -8,7 +8,7 @@ public class Arrayexample1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int[] array = new int[3];
+		int[] array = new int[3];//3 elements are added
 		 
         // allowed, however, need to be intialized
         //Test[] array1 = new Test[3];
